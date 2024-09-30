@@ -4,10 +4,17 @@ fn main() {
         let s2 = s1;
         println!("{}", s2);
     }
+    // print_string(s1);
     // This will be a dangaling pointer
     // That's why only one owner is there in Rust
     println!("{}", s1);
 }
+
+
+// fn print_string(s1: String){
+//     println!("{}",s1);
+// }
+
 
 // Ownership 
 // This means that only one owner will be there at a time.
@@ -25,3 +32,6 @@ fn main() {
 
 // You can clone the data 
 // Have two data in the heap
+
+// Moving a variable
+// Move the ownership 
