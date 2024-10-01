@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/_24/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_25/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_26/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_27/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_28/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_29/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/_24/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_25/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_26/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_27/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_28/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_29/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
