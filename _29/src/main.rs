@@ -5,8 +5,15 @@ fn main() {
     // name in stack
     // references contigious segments of collection J a m e s
 
+    // These literals are literally stored in the final binary
+    // as 0's and 1's
+    // In the final build file
+    // This str is pointing to somewhere in the binray
+    let str = "Hello World";
+    println!("Hello, {}!", str);
+
     for val in name.chars(){
-        if(val == ' '){
+        if val == ' '{
             break;
         }
         print!("{}",val);
